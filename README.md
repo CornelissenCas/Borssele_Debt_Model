@@ -4,7 +4,7 @@
 A project finance debt model for the Borssele 1 & 2 offshore wind farm (752 MW, Netherlands), built from the perspective of the bank financing the 2016 tender. Companion project to the equity DCF and Monte Carlo analysis in [Project 1](../Borssele_DCF_Model
 ).
 
-**Read the notebook first**: `Borssele_Debt_Model.ipynb` contains the full analysis, validated line by line against the companion Excel model.
+**Read the notebook first**: `Borssele_Debt_Model1,2.ipynb` contains the full analysis, validated line by line against the companion Excel model.
 
 ## Contents
 
